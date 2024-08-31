@@ -17,4 +17,9 @@ Skills: JS / HTML / CSS / Python
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubramim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubramim&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/githubramim/contributions?format=svg&private=true)  
 
