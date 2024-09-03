@@ -21,5 +21,4 @@ Skills: JS / HTML / CSS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=githubramim&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/githubramim/contributions?format=svg&private=true)  
 
