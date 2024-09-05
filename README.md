@@ -1,7 +1,7 @@
 ![image alt](https://github.com/githubramim/githubramim/blob/main/Ramim_Banner_GitHub.png)
 ### Hi there 👋, My Name is Tanvir Bin Faruk Ramim
-#### I am a Front End Developer
- Hi, I'm Tanvir Bin Faruk Ramim, a Level-IV certified web designer and developer from from Bangladesh Technical Education Board from Coxs Bazar Sadar, Bangladesh 🇧🇩. Passionate about creating user-friendly web experiences and exploring new technologies in web development.
+#### I am a Front End Developer and Freelancer On Fiverr... Here is my Gig; https://www.fiverr.com/s/YRYlvwQ
+ Hi, I'm Tanvir Bin Faruk Ramim, a Level-IV certified web designer and developer from the Bangladesh Technical Education Board from Coxs Bazar Sadar, Bangladesh 🇧🇩. Passionate about creating user-friendly web experiences and exploring new technologies in web development.
 
 Skills: JS / HTML / CSS / Python
 
