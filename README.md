@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://fb.com/tanvirramimdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirramimdm" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvirbinfarukramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvirbinfarukramim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tanvir bin faruk ramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanvir bin faruk ramim" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@tanvirbinfarukramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanvir bin faruk ramim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
