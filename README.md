@@ -1,33 +1,105 @@
-<h1 align="center">Hi 👋, I'm Tanvir Bin Faruk Ramim</h1>
-<h3 align="center">A passionate Backend developer from Cox's Bazar, Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubramim&label=Profile%20views&color=0e75b6&style=flat" alt="githubramim" /> </p>
+# Developer Ramim - Portfolio
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Welcome to my professional portfolio website. I'm a Full Stack Developer specializing in creating responsive, modern web applications.
 
-- 🔭 I’m currently working on **EPS**
+## 📋 Table of Contents
+- [About Me](#about-me)
+- [Services](#services)
+- [Contact](#contact)
+- [Social Links](#social-links)
 
-- 🌱 I’m currently learning **Laravel, Codeigniter**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/githubramim?tab=repositories](https://github.com/githubramim?tab=repositories)
+I am a dedicated web developer certified under the **National Skills Development Authority** and **Bangladesh Technical Education Board** with expertise in modern web technologies. I create responsive, user-friendly websites that help businesses grow online.
 
-- 💬 Ask me about **HTML | CSS | JS | PHP | Laravel | Codeigniter**
+### Core Competencies
+- ✅ Full Stack Development
+- ✅ Responsive Design
+- ✅ Performance Optimization
+- ✅ SEO Friendly Solutions
 
-- 📫 How to reach me **tfarukramim@gmail.com**
+---
 
-- ⚡ Fun fact **Have fun with infinite loop 😂**
+## 🚀 Services
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/tanvirramimdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvirramimdm" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvirbinfarukramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanvirbinfarukramim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@tanvirbinfarukramim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tanvir bin faruk ramim" height="30" width="40" /></a>
-</p>
+### Web Design
+Beautiful and modern UI/UX design tailored to your brand
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Web Development
+Full-stack development solutions using latest technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githubramim&show_icons=true&locale=en&layout=compact" alt="githubramim" /></p>
+### Optimization
+Performance and SEO optimization for better visibility
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubramim&show_icons=true&locale=en" alt="githubramim" /></p>
+---
 
+## 📞 Contact Details
+
+| Category | Details |
+|----------|---------|
+| **Phone** | +880 1234567890 |
+| **Email** | your@email.com |
+| **Location** | Bangladesh |
+| **Timezone** | Asia/Dhaka (UTC+6) |
+
+### Quick Contact Links
+- 📞 [Call Me](tel:+8801234567890)
+- 📧 [Email Me](mailto:your@email.com)
+- 💼 [Hire Me](https://example.com/contact)
+- 🎯 [Fiverr Profile](https://www.fiverr.com/s/Ldb8xxj)
+
+---
+
+## 🌐 Social Links
+
+Connect with me on social media:
+
+| Platform | Link | Handle |
+|----------|------|--------|
+| **GitHub** | [github.com/githubramim](https://github.com/githubramim) | @githubramim |
+| **LinkedIn** | [linkedin.com/in/ramimhere](https://linkedin.com/in/ramimhere) | @ramimhere |
+| **Twitter** | [twitter.com/TBFRamim](https://twitter.com/TBFRamim) | @TBFRamim |
+| **Facebook** | [facebook.com/TanvirRamimDM](https://facebook.com/TanvirRamimDM) | TanvirRamimDM |
+
+### Social Icons
+- 🐙 GitHub - Code repositories and projects
+- 💼 LinkedIn - Professional network
+- 🐦 Twitter - Web development updates
+- 👥 Facebook - Community engagement
+
+---
+
+## 🔗 Additional Links
+
+- **Google Profile**: [View on Google](https://share.google/BqXAJUzlVPOkopbbl)
+- **Google Reviews**: [Reviews on Google](https://g.page/r/CS0tyZQVUi_UEAE/review)
+
+---
+
+## 📝 Latest Articles
+
+- **Web Development Trends 2025** - Explore the latest industry trends
+- **CSS Tips and Tricks** - Master modern CSS techniques
+- **JavaScript Best Practices** - Write better JavaScript code
+
+---
+
+## ⚡ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
+- **Backend**: PHP, Node.js
+- **Design**: UI/UX, Responsive Design
+- **Tools**: Git, VS Code, Figma
+
+---
+
+## 📜 License & Credits
+
+© Tanvir Bin Faruk Ramim. All rights reserved.
+
+Made with ❤️ by **Tanvir Bin Faruk Ramim**
+
+---
+
+**Last Updated**: November 2025
